@@ -1,0 +1,51 @@
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" width="2480" height="3508" viewBox="0 0 2480 3508">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 50.66px;
+        fill: #0a6cf3;
+        font-family: "Vampire Wars";
+        font-style: italic;
+      }
+
+      .cls-2, .cls-5, .cls-6, .cls-7 {
+        font-size: 50px;
+      }
+
+      .cls-3, .cls-4, .cls-8 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        fill: #f63914;
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-5, .cls-7 {
+        font-family: "Eurostile Bold";
+      }
+
+      .cls-6 {
+        font-family: "Eurostile ExtendedTwo";
+        font-weight: 700;
+      }
+
+      .cls-8 {
+        fill: #fefcfc;
+      }
+    </style>
+  </defs>
+  <text id="E_PERT_" data-name="E  PERT " class="cls-1" transform="translate(2.606 1707.428) scale(12.649 4.003)">E<tspan class="cls-2">  PERT </tspan></text>
+  <path class="cls-3" d="M841.729,1717.31H2446.17v80.62H841.729v-80.62Z"/>
+  <g id="x_shape" data-name="x shape">
+    <path id="Arrow_136_-_Shapes4FREE_1" data-name="Arrow 136 - Shapes4FREE 1" class="cls-4" d="M62.651,1469.55c211.468,11.32,350.42,39.92,457.631,69.98,106.3,30.54,179.435,63.68,243.215,95.55,62.323,32.46,111.451,65.1,160,99.63,47.444,34.27,97.771,72.04,141.091,108.15-80.318,3.55-137.89,1.43-175.688.83-38.227-.91-56.28-1.54-66.117-2.04-44.939-35-80.849-72.25-120.788-108.32-39.833-36.17-83.431-70.64-139.877-102.14-56.211-31.59-124.8-60.49-209.345-87.95-42.855-13.66-87.8-27.04-136.868-39.68-48.756-12.6-101.626-24.47-153.256-34.01"/>
+    <path id="Arrow_136_-_Shapes4FREE_2" data-name="Arrow 136 - Shapes4FREE 2" class="cls-4" d="M1072.41,1494.48c-78.423,11.72-154.349,29.31-216.141,45.87-62.105,16.93-109.316,35.27-144.643,53.83-35.555,18.59-60.183,37.37-82.1,55.82-21.89,18.77-41.292,36.98-65.605,61.73-19.19,1.63-71.527,1.79-170.4.12a1085.843,1085.843,0,0,1,100.074-79c35.207-24.33,73.86-47.97,124.445-68.45,51.262-20.92,114.977-37.73,191.834-50.19,38.049-6.25,78.36-11.54,120.915-15.35a1178.635,1178.635,0,0,1,141.627-4.38"/>
+  </g>
+  <text id="DRIVING_SCHOOL" data-name="DRIVING SCHOOL" class="cls-5" transform="translate(1008.728 1780.37) scale(2.786 1.107)">DRIVING SCHOOL</text>
+  <text id="YOMO" class="cls-6" transform="translate(62.652 1820.259) scale(2.708 1.708)">YOMO</text>
+  <text id="WE_TEACH_YOU_DRIVE_" data-name="WE TEACH, YOU DRIVE " class="cls-7" transform="translate(1082.597 1839.56) scale(1.921 0.635)">WE TEACH, YOU DRIVE </text>
+  <path class="cls-8" d="M784.479,1838.53h288.4v10.75h-288.4v-10.75Z"/>
+</svg>
