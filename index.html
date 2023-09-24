@@ -9,12 +9,14 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./css files/style.css">
+    <script src="./js files/index.js" defer></script>
 </head>
 
 <body>
     <div class="contacts">
-        <h4>expertyomo62Gmail.com</h4>
+        <h4>expertyomo62@gmail.com</h4>
         <h4>Phone : 0702606355</h4>
+
         <div class="search">
             <div class="search-bar">
                 <input class="search-box" type="text" placeholder="Search">
@@ -29,10 +31,10 @@
     </header>
     <nav class="nav-links">
         <ul class="list"><a href="#">Home</a> </ul>
-        <ul class="list">  <a href="#">About
-            <li class="drop">History</li>
+        <ul class="list"> About
+            <li class="drop"><a href="">History</a></li>
             <li class="drop">Vision <br> mission <br> values</li>
-            <li class="drop">Management</li></a>
+            <li class="drop">Management</li>
         </ul>
         <ul class="list"><a href="#">Academics</a></ul>
         <ul class="list"><a href="#">Services
@@ -44,8 +46,15 @@
         <ul class="list"><a href="#">Contacts</a></ul>
     </nav>
     <section class="images" id="images">
-        <div class="imagess"  id="imagess">
-            
+        <main class="imagess">
+            <img src="./images/IMG-20230816-WA0005.jpg" class="slide">
+            <img src="./images/IMG-20230816-WA0006.jpg" class="slide">
+            <img src="./images/IMG-20230816-WA0007.jpg" class="slide">            
+            <img src="./images/IMG-20230816-WA0008.jpg" class="slide">            
+        </main>
+        <div class="nav">
+            <button onclick="goPrev()">Prev</button>
+            <button onclick="goNext()" >Next</button>
         </div>
 
     </section>
